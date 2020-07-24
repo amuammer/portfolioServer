@@ -1,3 +1,26 @@
+Number and name of feature: 1 - Deploy to Heroku
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 1:00 PM
+
+Finish time: 2:00 PM
+
+Actual time needed to complete: 1 hour
+
+---
+Number and name of feature: 2 - Adds
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2:00 PM
+
+Finish time: 4:00 PM
+
+Actual time needed to complete: 2 hours
+
+------
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

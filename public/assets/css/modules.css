@@ -35,7 +35,11 @@
 
 		}
 
-		@media screen and (max-width: 960px) {
+		@media screen and (min-width: 737px) and (max-width: 960px) {
+
+			#header {
+				max-width: 200px;
+			}
 
 			.container {
 				width: 100%;
@@ -44,6 +48,10 @@
 		}
 
 		@media screen and (max-width: 736px) {
+
+			#header {
+				max-width: 100px;
+			}
 
 			.container {
 				width: 100%;
@@ -2001,10 +2009,17 @@
 				background-position: center center;
 			}
 
-			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
-			}
+
+			video {
+			position: fixed;
+			z-index: -1;
+		  right: 0;
+		  bottom: 0;
+	    top: 0;
+	    left: 0;
+			min-width: 100%;
+			min-height: 100%;
+	  }
 
 			#main > section.two {
 				background-color: #f5fafa;
